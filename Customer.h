@@ -1,3 +1,7 @@
+/* Name: Khalid Young
+Date: 07/06/2025
+This is the documentation and implementation for the MaxHeap class, as well as the Customer struct and its data members. */
+
 #ifndef CUSTOMER_HPP
 #define CUSTOMER_HPP
 
